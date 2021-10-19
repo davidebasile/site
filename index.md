@@ -1,37 +1,77 @@
-## Welcome to GitHub Pages
+## Welcome to My Page
+<p>
+Davide Basile, Ph.D.<br/>
 
-You can use the [editor on GitHub](https://github.com/davidebasile/site/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<br/>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Tenured Researcher @<br/>
 
-### Markdown
+Formal Methods &amp; Tools (FMT)<br/>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Istituto di Scienza e Tecnologie dell&#039;Informazione “A. Faedo” (ISTI)<br/>
 
-```markdown
-Syntax highlighted code block
+Consiglio Nazionale delle Ricerche (CNR)<br/>
 
-# Header 1
-## Header 2
-### Header 3
+Area della Ricerca di Pisa, Loc. San Cataldo,<br/>
 
-- Bulleted
-- List
+Via Moruzzi 1, I-56124 Pisa, Italy<br/>
 
-1. Numbered
-2. List
+<br/>
 
-**Bold** and _Italic_ and `Code` text
+Room : I-45<br/>
 
-[Link](url) and ![Image](src)
-```
+Phone : +39 050 315 2796<br/>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+E-mail : <a href="mailto:&#100;&#97;&#118;&#105;&#100;&#101;&#46;&#98;&#97;&#115;&#105;&#108;&#101;&#64;&#105;&#115;&#116;&#105;&#46;&#99;&#110;&#114;&#46;&#105;&#116;" class="mail" title="&#100;&#97;&#118;&#105;&#100;&#101;&#46;&#98;&#97;&#115;&#105;&#108;&#101;&#64;&#105;&#115;&#116;&#105;&#46;&#99;&#110;&#114;&#46;&#105;&#116;">&#100;&#97;&#118;&#105;&#100;&#101;&#46;&#98;&#97;&#115;&#105;&#108;&#101;&#64;&#105;&#115;&#116;&#105;&#46;&#99;&#110;&#114;&#46;&#105;&#116;</a>
+</p>
 
-### Jekyll Themes
+<p>
+My Pages :
+</p>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/davidebasile/site/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<p>
+<em>National Research Council (CNR)</em>: <a href="https://www.cnr.it/people/davide.basile" class="urlextern" target="_blank" title="https://www.cnr.it/people/davide.basile" rel="ugc nofollow noopener">https://www.cnr.it/people/davide.basile</a>
+</p>
 
-### Support or Contact
+<p>
+<em>Institute of Information Science and Technologies (ISTI)</em>: <a href="https://www.isti.cnr.it/en/about/people-detail/516/Davide_Basile" class="urlextern" target="_blank" title="https://www.isti.cnr.it/en/about/people-detail/516/Davide_Basile" rel="ugc nofollow noopener">https://www.isti.cnr.it/en/about/people-detail/516/Davide_Basile</a>
+</p>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<p>
+<em>Scopus Author ID</em>: <a href="http://www.scopus.com/authid/detail.url?authorId=55960640200" class="urlextern" target="_blank" title="http://www.scopus.com/authid/detail.url?authorId=55960640200" rel="ugc nofollow noopener">55960640200 </a>
+</p>
+
+<p>
+<em>WoS Researcher ID</em>: <a href="http://www.researcherid.com/rid/AAX-1112-2020" class="urlextern" target="_blank" title="http://www.researcherid.com/rid/AAX-1112-2020" rel="ugc nofollow noopener">AAX-1112-2020 </a>
+</p>
+
+<p>
+<em>Orcid ID</em>: <a href="http://orcid.org/0000-0002-7196-6609" class="urlextern" target="_blank" title="http://orcid.org/0000-0002-7196-6609" rel="ugc nofollow noopener">0000-0002-7196-6609 </a>
+</p>
+
+<p>
+<em>LinkedIn</em>: <a href="https://www.linkedin.com/in/davide-basile-4179a74b" class="urlextern" target="_blank" title="https://www.linkedin.com/in/davide-basile-4179a74b" rel="ugc nofollow noopener">in/davide-basile-4179a74b </a>
+</p>
+
+<p>
+<em>Research Gate</em>: <a href="http://www.researchgate.net/profile/Davide_Basile2" class="urlextern" target="_blank" title="http://www.researchgate.net/profile/Davide_Basile2" rel="ugc nofollow noopener">Davide_Basile2 </a>
+</p>
+
+<p>
+<em>Google Scholar</em>: <a href="http://scholar.google.it/citations?user=GFesXY4AAAAJ" class="urlextern" target="_blank" title="http://scholar.google.it/citations?user=GFesXY4AAAAJ" rel="ugc nofollow noopener">GFesXY4AAAAJ </a>
+</p>
+
+<p>
+<em>YouTube Channel</em>: <a href="https://www.youtube.com/channel/UCBrL5bekXG1_ELLB00K7o7A" class="urlextern" target="_blank" title="https://www.youtube.com/channel/UCBrL5bekXG1_ELLB00K7o7A" rel="ugc nofollow noopener">UCBrL5bekXG1_ELLB00K7o7A</a>
+</p>
+
+<p>
+<em>GitHub Page</em>: <a href="https://github.com/davidebasile" class="urlextern" target="_blank" title="https://github.com/davidebasile" rel="ugc nofollow noopener">https://github.com/davidebasile</a>
+</p>
+
+<p>
+<em>BitBucket Page:</em> <a href="https://bitbucket.org/davidebasile/" class="urlextern" target="_blank" title="https://bitbucket.org/davidebasile/" rel="ugc nofollow noopener">https://bitbucket.org/davidebasile/</a>
+</p>
+
+                    <!-- wikipage stop -->
+                                    </div>
