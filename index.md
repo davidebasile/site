@@ -71,9 +71,6 @@ E-mail : <a href="mailto:&#100;&#97;&#118;&#105;&#100;&#101;&#46;&#98;&#97;&#115
 
 
 <p>
-<em>Twitter Page:</em> <a href="
-https://twitter.com/davidebasile/" class="urlextern" target="_blank" title="
-https://twitter.com/davidebasile/" rel="ugc nofollow noopener">
-https://twitter.com/davidebasile/</a>
-</p>
+<em>Twitter Page:</em> <a href="https://twitter.com/davidebasile/" class="urlextern" target="_blank" title="https://twitter.com/davidebasile/" rel="ugc nofollow noopener">
+https://twitter.com/davidebasile/</a></p>
 
