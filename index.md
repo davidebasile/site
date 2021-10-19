@@ -1,4 +1,3 @@
-## Welcome to My Page
 <p>
 Davide Basile, Ph.D.<br/>
 
