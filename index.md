@@ -1,4 +1,4 @@
-##Davide Basile, Ph.D.
+# Davide Basile, Ph.D.
 
 Tenured Researcher @<br/>
 
@@ -22,7 +22,7 @@ E-mail : <a href="mailto:&#100;&#97;&#118;&#105;&#100;&#101;&#46;&#98;&#97;&#115
 </p>
 
 
-##My Pages :
+## My Pages :
 
 
 <p>
