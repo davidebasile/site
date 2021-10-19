@@ -71,6 +71,3 @@ My Pages :
 <p>
 <em>BitBucket Page:</em> <a href="https://bitbucket.org/davidebasile/" class="urlextern" target="_blank" title="https://bitbucket.org/davidebasile/" rel="ugc nofollow noopener">https://bitbucket.org/davidebasile/</a>
 </p>
-
-                    <!-- wikipage stop -->
-                                    </div>
