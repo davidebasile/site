@@ -1,7 +1,4 @@
-<p>
-Davide Basile, Ph.D.<br/>
-
-<br/>
+##Davide Basile, Ph.D.
 
 Tenured Researcher @<br/>
 
@@ -24,9 +21,9 @@ Phone : +39 050 315 2796<br/>
 E-mail : <a href="mailto:&#100;&#97;&#118;&#105;&#100;&#101;&#46;&#98;&#97;&#115;&#105;&#108;&#101;&#64;&#105;&#115;&#116;&#105;&#46;&#99;&#110;&#114;&#46;&#105;&#116;" class="mail" title="&#100;&#97;&#118;&#105;&#100;&#101;&#46;&#98;&#97;&#115;&#105;&#108;&#101;&#64;&#105;&#115;&#116;&#105;&#46;&#99;&#110;&#114;&#46;&#105;&#116;">&#100;&#97;&#118;&#105;&#100;&#101;&#46;&#98;&#97;&#115;&#105;&#108;&#101;&#64;&#105;&#115;&#116;&#105;&#46;&#99;&#110;&#114;&#46;&#105;&#116;</a>
 </p>
 
-<p>
-My Pages :
-</p>
+
+##My Pages :
+
 
 <p>
 <em>National Research Council (CNR)</em>: <a href="https://www.cnr.it/people/davide.basile" class="urlextern" target="_blank" title="https://www.cnr.it/people/davide.basile" rel="ugc nofollow noopener">https://www.cnr.it/people/davide.basile</a>
