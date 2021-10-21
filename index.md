@@ -34,7 +34,7 @@ E-mail : <a href="mailto:&#100;&#97;&#118;&#105;&#100;&#101;&#46;&#98;&#97;&#115
 </p>
 
 <p>
-<em>Formal Methods && Tools Lab</em>: <a href="https://fmt.isti.cnr.it/doku.php?id=basile" class="urlextern" target="_blank" title="https://fmt.isti.cnr.it/doku.php?id=basile" rel="ugc nofollow noopener">https://fmt.isti.cnr.it/doku.php?id=basile</a>
+<em>Formal Methods && Tools Lab</em>: <a href="https://web.archive.org/web/20211021121714/http://fmt.isti.cnr.it/doku.php?id=basile" class="urlextern" target="_blank" title="https://fmt.isti.cnr.it/doku.php?id=basile" rel="ugc nofollow noopener">https://fmt.isti.cnr.it/doku.php?id=basile</a>
 </p>
 
 
@@ -43,7 +43,7 @@ E-mail : <a href="mailto:&#100;&#97;&#118;&#105;&#100;&#101;&#46;&#98;&#97;&#115
 </p>
 
 <p>
-<em>University of Florence</em>: <a href="https://www.unifi.it/p-doc2-2018-0-A-2c3338313627-1.html" class="urlextern" target="_blank" title="https://www.unifi.it/p-doc2-2018-0-A-2c3338313627-1.html" rel="ugc nofollow noopener">https://www.unifi.it/p-doc2-2018-0-A-2c3338313627-1.html</a>
+<em>University of Florence</em>: <a href="https://web.archive.org/web/20210118104605/https://www.unifi.it/p-doc2-2018-0-A-2c3338313627-1.html" class="urlextern" target="_blank" title="https://www.unifi.it/p-doc2-2018-0-A-2c3338313627-1.html" rel="ugc nofollow noopener">https://www.unifi.it/p-doc2-2018-0-A-2c3338313627-1.html</a>
 </p>
 
 
