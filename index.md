@@ -1,4 +1,7 @@
 ## Contact :
+
+![Davide Basile](https://www.cnr.it/peoplepublic/peoplepublic/index/profileimage/login/davide.basile)
+
 Davide Basile, Ph.D.<br/>
 
 Tenured Researcher @<br/>
