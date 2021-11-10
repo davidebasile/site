@@ -75,6 +75,11 @@ E-mail : <a href="mailto:&#100;&#97;&#118;&#105;&#100;&#101;&#46;&#98;&#97;&#115
 <em>Google Scholar</em>: <a href="http://scholar.google.it/citations?user=GFesXY4AAAAJ" class="urlextern" target="_blank" title="http://scholar.google.it/citations?user=GFesXY4AAAAJ" rel="ugc nofollow noopener">GFesXY4AAAAJ </a>
 </p>
 
+
+<p>
+<em>DBLP</em>: <a href="https://dblp.org/pid/135/0129.html" class="urlextern" target="_blank" rel="ugc nofollow noopener">https://dblp.org/pid/135/0129.html</a>
+</p>
+
 <p>
 <em>YouTube Channel</em>: <a href="https://www.youtube.com/channel/UCBrL5bekXG1_ELLB00K7o7A" class="urlextern" target="_blank" title="https://www.youtube.com/channel/UCBrL5bekXG1_ELLB00K7o7A" rel="ugc nofollow noopener">UCBrL5bekXG1_ELLB00K7o7A</a>
 </p>
