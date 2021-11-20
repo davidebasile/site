@@ -89,7 +89,7 @@ E-mail : <a href="mailto:&#100;&#97;&#118;&#105;&#100;&#101;&#46;&#98;&#97;&#115
 </p>
 
 <p>
-<em>BitBucket Page:</em> <a href="https://bitbucket.org/davidebasile84/" class="urlextern" target="_blank" title="https://bitbucket.org/davidebasile/" rel="ugc nofollow noopener">https://bitbucket.org/davidebasile/</a>
+<em>BitBucket Page:</em> <a href="https://bitbucket.org/davidebasile84/" class="urlextern" target="_blank" title="https://bitbucket.org/davidebasile/" rel="ugc nofollow noopener">https://bitbucket.org/davidebasile84/</a>
 </p>
 
 
