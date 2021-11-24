@@ -4,7 +4,7 @@
 
 Davide Basile, Ph.D.<br/>
 
-Tenured Researcher @<br/>
+Researcher (tenured position) @<br/>
 
 Formal Methods &amp; Tools (FMT)<br/>
 
