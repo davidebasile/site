@@ -29,7 +29,7 @@ E-mail : <a href="mailto:&#100;&#97;&#118;&#105;&#100;&#101;&#46;&#98;&#97;&#115
 
 
 <p>
-<em>National Research Council (CNR)</em>: <a href="https://www.cnr.it/people/davide.basile" class="urlextern" target="_blank" title="https://www.cnr.it/people/davide.basile" rel="ugc nofollow noopener">https://www.cnr.it/people/davide.basile</a>
+<em>National Research Council (CNR)</em>: <a href="https://www.cnr.it/people/davide.basile" class="urlextern" target="_blank" title="https://www.cnr.it/people/davide.basile" rel="ugc nofollow noopener">https://www.cnr.it/people/davide.basile</a>  (my CV is available in this site)
 </p>
 
 <p>
@@ -50,6 +50,10 @@ E-mail : <a href="mailto:&#100;&#97;&#118;&#105;&#100;&#101;&#46;&#98;&#97;&#115
 </p>
 
 
+<p>
+<em>Open Portal ISTI:</em> <a href="https://openportal.isti.cnr.it/results?qv=davide+basile" class="urlextern" target="_blank" rel="ugc nofollow noopener">
+https://openportal.isti.cnr.it/results?qv=davide+basile</a>  (here you will find most pre-prints of my papers)
+</p>
 
 <p>
 <em>Scopus Author ID</em>: <a href="http://www.scopus.com/authid/detail.url?authorId=55960640200" class="urlextern" target="_blank" title="http://www.scopus.com/authid/detail.url?authorId=55960640200" rel="ugc nofollow noopener">55960640200 </a>
@@ -64,7 +68,7 @@ E-mail : <a href="mailto:&#100;&#97;&#118;&#105;&#100;&#101;&#46;&#98;&#97;&#115
 </p>
 
 <p>
-<em>LinkedIn</em>: <a href="https://www.linkedin.com/in/davide-basile-4179a74b" class="urlextern" target="_blank" title="https://www.linkedin.com/in/davide-basile-4179a74b" rel="ugc nofollow noopener">in/davide-basile-4179a74b </a>
+<em>LinkedIn</em>: <a href="https://www.linkedin.com/in/davide-basile-4179a74b" class="urlextern" target="_blank" title="https://www.linkedin.com/in/davide-basile-4179a74b" rel="ugc nofollow noopener">in/davide-basile-4179a74b </a>  info on my previous jobs and education are available here
 </p>
 
 <p>
@@ -75,7 +79,6 @@ E-mail : <a href="mailto:&#100;&#97;&#118;&#105;&#100;&#101;&#46;&#98;&#97;&#115
 <em>Google Scholar</em>: <a href="http://scholar.google.it/citations?user=GFesXY4AAAAJ" class="urlextern" target="_blank" title="http://scholar.google.it/citations?user=GFesXY4AAAAJ" rel="ugc nofollow noopener">GFesXY4AAAAJ </a>
 </p>
 
-
 <p>
 <em>DBLP</em>: <a href="https://dblp.org/pid/135/0129.html" class="urlextern" target="_blank" rel="ugc nofollow noopener">https://dblp.org/pid/135/0129.html</a>
 </p>
@@ -85,11 +88,11 @@ E-mail : <a href="mailto:&#100;&#97;&#118;&#105;&#100;&#101;&#46;&#98;&#97;&#115
 </p>
 
 <p>
-<em>GitHub Page</em>: <a href="https://github.com/davidebasile" class="urlextern" target="_blank" title="https://github.com/davidebasile" rel="ugc nofollow noopener">https://github.com/davidebasile</a>
+<em>GitHub Page</em>: <a href="https://github.com/davidebasile" class="urlextern" target="_blank" title="https://github.com/davidebasile" rel="ugc nofollow noopener">https://github.com/davidebasile</a>  this page contains the tools I am maintaining
 </p>
 
 <p>
-<em>BitBucket Page:</em> <a href="https://bitbucket.org/davidebasile84/" class="urlextern" target="_blank" title="https://bitbucket.org/davidebasile/" rel="ugc nofollow noopener">https://bitbucket.org/davidebasile84/</a>
+<em>BitBucket Page:</em> <a href="https://bitbucket.org/davidebasile84/" class="urlextern" target="_blank" title="https://bitbucket.org/davidebasile/" rel="ugc nofollow noopener">https://bitbucket.org/davidebasile84/</a> this page contains the tools I am maintaining
 </p>
 
 
@@ -97,4 +100,7 @@ E-mail : <a href="mailto:&#100;&#97;&#118;&#105;&#100;&#101;&#46;&#98;&#97;&#115
 <p>
 <em>Twitter Page:</em> <a href="https://twitter.com/davidebasile/" class="urlextern" target="_blank" title="https://twitter.com/davidebasile/" rel="ugc nofollow noopener">
 https://twitter.com/davidebasile/</a></p>
+
+
+
 
