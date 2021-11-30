@@ -84,7 +84,7 @@ https://openportal.isti.cnr.it/results?qv=davide+basile</a>  (here you will find
 </p>
 
 <p>
-<em>YouTube Channel</em>: <a href="https://www.youtube.com/channel/UCBrL5bekXG1_ELLB00K7o7A" class="urlextern" target="_blank" title="https://www.youtube.com/channel/UCBrL5bekXG1_ELLB00K7o7A" rel="ugc nofollow noopener">UCBrL5bekXG1_ELLB00K7o7A</a>
+<em>YouTube Channel</em>: <a href="https://www.youtube.com/channel/UCBrL5bekXG1_ELLB00K7o7A" class="urlextern" target="_blank" title="https://www.youtube.com/channel/UCBrL5bekXG1_ELLB00K7o7A" rel="ugc nofollow noopener">UCBrL5bekXG1_ELLB00K7o7A</a> this channel contains videos of my presentations at conferences and other material
 </p>
 
 <p>
