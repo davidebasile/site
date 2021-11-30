@@ -29,7 +29,7 @@ E-mail : <a href="mailto:&#100;&#97;&#118;&#105;&#100;&#101;&#46;&#98;&#97;&#115
 
 
 <p>
-<em>National Research Council (CNR)</em>: <a href="https://www.cnr.it/people/davide.basile" class="urlextern" target="_blank" title="https://www.cnr.it/people/davide.basile" rel="ugc nofollow noopener">https://www.cnr.it/people/davide.basile</a>  (my CV is available in this site)
+<em>National Research Council (CNR)</em>: <a href="https://www.cnr.it/people/davide.basile" class="urlextern" target="_blank" title="https://www.cnr.it/people/davide.basile" rel="ugc nofollow noopener">https://www.cnr.it/people/davide.basile</a>  (my CV is available on this site)
 </p>
 
 <p>
