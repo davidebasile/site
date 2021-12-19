@@ -35,7 +35,7 @@ I did my Ph.D. studies in Computer Science in 2012-2016, at the Department of Co
 My Ph.D. thesis <a href="https://etd.adm.unipi.it/t/etd-05232016-100710/">Specification and Verification of Contract-Based Applications</a> introduces a new automata-based formalism for behavioural contracts exploiting results from Supervisory Control Theory for Discrete Event Systems and Mixed Integer Linear Programming. These techniques are adapted to verify and synthesise ensembles of contracts with differerent well-behaving properties and coordination paradigms. The formalism is proved to be in correspondence with two Horn Fragments of dialects of Intuitionitistics Logics introduced to model contracts with debits. 
 
 As of 2021 I have authored about 40 peer-reviewed papers in conferences and journals in the field of formal methods, software engineering and dependable computing. 
-My research focuses on developing both novel formalisms for emerging computational paradigms and supporting tools, exploring formal verification techniques and applying stateof-the-art formal methods to the design of realworld systems and emerging technologies in different applications domain, e.g., railway domain. 
+My research focuses on developing both novel formalisms for emerging computational paradigms and supporting tools, exploring formal verification techniques and applying state-of-the-art formal methods to the design of real-world systems and emerging technologies in different applications domain, e.g., railway domain. 
 
 
 ##  Pages :
