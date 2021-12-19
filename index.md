@@ -30,7 +30,7 @@ I am a permanente researcher at the <a href="https://www.fmt.isti.cnr.it/">Forma
 
 Previously,  I was an assistant professor at the University of Florence, Department of Statistics, Informations and Applications (DISIA) and a post-doc at the University of FLorence, Department of Information Engineering (DINFO). I have been a member of the FMT-lab since 2015.
 
-I did my Ph.D. studies in Computer Science from 2012-2016, at the Department of Computer Science of the University of Pisa, Scienze di Base "Galileo Galilei", under the supervision of Prof. Pierpaolo Degano and Prof. Gian-Luigi Ferrari, and previously I was a Master and Bachelor student at the same Department.
+I did my Ph.D. studies in Computer Science in 2012-2016, at the Department of Computer Science of the University of Pisa, Scienze di Base "Galileo Galilei", under the supervision of Prof. Pierpaolo Degano and Prof. Gian-Luigi Ferrari, and previously I was a Master and Bachelor student at the same Department.
 My Ph.D. thesis <a href="https://etd.adm.unipi.it/t/etd-05232016-100710/">Specification and Verification of Contract-Based Applications</a> introduces a new automata-based formalism for behavioural contracts exploiting results from Supervisory Control Theory for Discrete Systems and Mixed Integer Linear Programming to verify and synthesise ensembles of contracts with differerent well-behaving and coordination paradigms. The formalism is proved to be in correspondence with two Horn Fragments of dialects of  Intuitionitistics Logics introduced to model contracts with debits. 
 
 As of 2021 I have authored about 40 peer-reviewed papers in conferences and journals in the field of formal methods, software engineering and dependable computing. 
