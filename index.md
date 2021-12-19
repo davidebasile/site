@@ -27,9 +27,12 @@ E-mail : <a href="mailto:&#100;&#97;&#118;&#105;&#100;&#101;&#46;&#98;&#97;&#115
 ## About me: 
 
 I am a permanente researcher at the <a href="https://www.fmt.isti.cnr.it/">Formal Methods && Tools Laboratory</a> of the <a href="https://www.isti.cnr.it/en/">Institute of Information Science and Technology (ISTI)</a> of the <a href="https://www.cnr.it/en">National Research Council (CNR)</a> in Pisa, Italy. 
+
 Previously,  I was an assistant professor at the University of Florence, Department of Statistics, Informations and Applications (DISIA) and a post-doc at the University of FLorence, Department of Information Engineering (DINFO).
+
 I received my Ph.D. in Computer Science in 2016, at the Department of Computer Science of the University of Pisa, under the supervision of Prof. Pierpaolo Degano and Prof. Gian-Luigi Ferrari. 
 My Ph.D. thesis <a href="https://etd.adm.unipi.it/t/etd-05232016-100710/">Specification and Verification of Contract-Based Applications</a> introduces a new automata-based formalism for behavioural contracts exploiting results from Supervisory Control Theory for Discrete Systems and Mixed Integer Linear Programming to verify and synthesise ensembles of contracts with differerent well-behaving and coordination paradigms. The formalism is proved to be in correspondence with two Horn Fragments of dialects of  Intuitionitistics Logics introduced to model contracts with debits. 
+
 As of 2021 I have authored about 40 peer-reviewed papers in conferences and journals in the field of formal methods, software engineering and dependable computing. 
 My research focuses on developing both novel formalisms for emerging computational paradigms and supporting tools, exploring formal verification techniques and applying stateof-the-art formal methods to the design of realworld systems and emerging technologies in different applications domain, e.g., railway domain. 
 
