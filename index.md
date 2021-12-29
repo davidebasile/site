@@ -30,6 +30,19 @@ During my post-doc years I have been involved in different international and nat
 As of 2021 I have authored about 40 peer-reviewed papers in conferences and journals in the field of formal methods, software engineering and dependable computing. 
 My research focuses on developing both novel formalisms for emerging computational paradigms and supporting tools, exploring formal verification techniques and applying state-of-the-art formal methods to the design of real-world systems and emerging technologies in different application domains, e.g., railway domain. 
 
+## Participation in Projects:
+
+
+<a href="http://itmatters.imtlucca.it/">PRIN ITMatters 2017FTXR7S (2020-2022)</a><br>
+<a href="https://www.4securail.eu/">H2020 Shift2Rail 4SECURail 2020-2021 (FORmal Methods and CSIRT for the RAILway sector)</a><br>
+<a href="https://www.astral-project.eu/">H2020 Shift2Rail ASTRail 2017-2019 (SAtellite-based Signalling and Automation SysTems on Railways along with
+Formal Method and Moving Block validation)</a><br>
+<a href="https://www.progetto-sister.com/">POR FESR SISTER 2017-2019 (Signalling & Sensing Technologies in Railway application) </a><br>
+<a href="http://sysma.imtlucca.it/cina/doku.php">PRIN CINA 2010LHT4KM (Composizionalità, Interazione, Negoziazione, Autonomicità per la società
+ICT futura)</a><br>
+<a href="https://securitylab.disi.unitn.it/doku.php?id=tenace#tenace_project">PRIN TENACE 20103P34XC, 2015-2016 (Protezione delle Infiastrutture Critiche Nazionali da Minacce Cibernetiche)</a><br>
+<a href="http://attiministeriali.miur.it/media/204097/graduatorie_finali_area1.pdf">PRIN Security Horizon 2010XSEMLC 2013-2014</a>
+
 ## Program Committees:
 
 ##### 2022
@@ -63,7 +76,7 @@ My research focuses on developing both novel formalisms for emerging computation
 
 ## Conferences Organization:
 
-<a href="https://vamos2022.isti.cnr.it/vamosorganisation">The 16th International Working Conference on Variability Modelling of Software-Intensive System (VaMoS 2022 - Publicity Chair, Web Chair) </a>
+<a href="https://vamos2022.isti.cnr.it/vamosorganisation">The 16th International Working Conference on Variability Modelling of Software-Intensive System (VaMoS 2022 - Publicity Chair, Web Chair) </a><br>
 <a href="https://www.discotec.org/2020/">The 15th International Federated Conference on Distributed Computing Techniques (DisCoTec 2020 - Publicity Chair) </a><br>
 
 ##  Pages :
