@@ -45,32 +45,21 @@ ICT futura)</a><br>
 
 ## Program Committees:
 
-##### 2022
-
 <a href="https://icsoft.scitevents.org/ProgramCommittee.aspx">The 17th International Conference on Software Technologies (ICSOFT 2022)</a><br>
 <a href="https://www.agile-group.org/iwbose2022/">The 5th International Workshop on Blockchain Oriented Software Engineering (IWBOSE 2022)</a><br>
 <a href="https://www.discotec.org/2022/coordination.html">The 24th International Conference on Coordination Models and Languages (COORDINATION 2022)</a>
-
-##### 2021
-
 <a href="https://icsoft.scitevents.org/?y=2021">The 16th International Conference on Software Technologies (ICSOFT 2021)</a><br>
 <a href="https://splc2021.net/">The 25th International Systems and Software Product Line Conference (SPLC 2021 - Best Reviewer Award)</a><br>
 <a href="https://datamod2021.github.io/">The 10th International Symposium, From Data to Models and Back (DataMod 2021)</a><br>
 <a href="https://www.agile-group.org/iwbose2021/">The 4th International Workshop on Blockchain Oriented Software Engineering (IWBOSE 2021)</a>
-
-##### 2020
 <a href="https://icsoft.scitevents.org/?y=2020">The 15th International Conference on Software Technologies (ICSOFT 2020)</a><br>
 <a href="https://fmics20.ait.ac.at/">The 25th International Conference on Formal Methods for Industrial Critical Systems (FMICS 2020)</a><br>
 <a href="https://datamod2020.github.io/">The 9th International Symposium, From Data to Models and Back (DataMod 2020)</a><br>
 <a href="https://splc2020.net/program-committees/">The 24th International Systems and Software Product Line Conference (SPLC 2020 - Artifact Track)</a><br>
 <a href="https://splc2020.net/program-committees/">The 24th International Systems and Software Product Line Conference (SPLC 2020 - Demonstrations, and Tools Track)</a>
-
-##### 2019 
 <a href="http://adsn.net.info.hiroshima-cu.ac.jp/">The 18th International Workshop on Assurance in Distributed Systems and Networks (ADSN 2019) </a><br>
 <a href="https://icsoft.scitevents.org/?y=2019">The 14th International Conference on Software Technologies (ICSOFT 2019)</a><br>
 <a href="http://kishi-lab.sakura.ne.jp/splc2019/program-committees/">The 23rd International Systems and Software Product Line Conference (SPLC 2019 - Artifact Track) </a>
-
-##### 2018  
 <a href="https://ieeexplore.ieee.org/abstract/document/8560000">The 17th International Workshop on Assurance in Distributed Systems and Networks (ADSN 2018) </a>
 
 
