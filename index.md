@@ -61,8 +61,12 @@ My research focuses on developing both novel formalisms for emerging computation
 <a href="https://www.agile-group.org/iwbose2022/">The 5th International Workshop on Blockchain Oriented Software Engineering (IWBOSE 2022)</a><br>
 <a href="https://www.discotec.org/2022/coordination.html">The 24th International Conference on Coordination Models and Languages (COORDINATION 2022)</a>
 
-##  Pages :
+## Conferences Organization:
 
+<a href="https://www.discotec.org/2020/">The 15th International Federated Conference on Distributed Computing Techniques (DisCoTec 2020 - Publicity Chair) </a><br>
+<a href="https://vamos2022.isti.cnr.it/vamosorganisation">The 16th International Working Conference on Variability Modelling of Software-Intensive System (VaMoS 2022 - Publicity Chair, Web Chair) </a>
+
+##  Pages :
 
 <p>
 <em>National Research Council (CNR)</em>: <a href="https://www.cnr.it/people/davide.basile" class="urlextern" target="_blank" title="https://www.cnr.it/people/davide.basile" rel="ugc nofollow noopener">https://www.cnr.it/people/davide.basile</a>  (my CV is available on this site)
