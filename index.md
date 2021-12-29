@@ -39,6 +39,46 @@ During my post-doc years I have been involved in different international and nat
 As of 2021 I have authored about 40 peer-reviewed papers in conferences and journals in the field of formal methods, software engineering and dependable computing. 
 My research focuses on developing both novel formalisms for emerging computational paradigms and supporting tools, exploring formal verification techniques and applying state-of-the-art formal methods to the design of real-world systems and emerging technologies in different application domains, e.g., railway domain. 
 
+## Program Committee:
+
+##### 2018  
+<a href="https://ieeexplore.ieee.org/abstract/document/8560000">The 17th International Workshop on Assurance in Distributed Systems and Networks (ADSN 2018) </a>
+
+##### 2019 
+<a href="http://adsn.net.info.hiroshima-cu.ac.jp/">The 18th International Workshop on Assurance in Distributed Systems and Networks (ADSN 2019) </a>
+
+<a href="https://icsoft.scitevents.org/?y=2019">The 14th International Conference on Software Technologies (ICSOFT 2019)</a>
+
+<a href="http://kishi-lab.sakura.ne.jp/splc2019/program-committees/">The 23rd International Systems and Software Product Line Conference (SPLC 2019 - Artifact Track) </a>
+
+##### 2020
+<a href="https://icsoft.scitevents.org/?y=2020">The 15th International Conference on Software Technologies (ICSOFT 2020)</a>
+
+<a href="https://fmics20.ait.ac.at/">The 25th International Conference on Formal Methods for Industrial Critical Systems (FMICS 2020)</a>
+
+<a href="https://datamod2020.github.io/">The 9th International Symposium, From Data to Models and Back (DataMod 2020)</a>
+
+<a href="https://splc2020.net/program-committees/">The 24th International Systems and Software Product Line Conference (SPLC 2020 - Artifact Track)</a>
+
+<a href="https://splc2020.net/program-committees/">The 24th International Systems and Software Product Line Conference (SPLC 2020 - Demonstrations, and Tools Track)</a>
+
+##### 2021
+
+<a href="https://icsoft.scitevents.org/?y=2021">The 16th International Conference on Software Technologies (ICSOFT 2021)</a>
+
+<a href="https://splc2021.net/">The 25th International Systems and Software Product Line Conference (SPLC 2021 - Best Reviewer Award)</a>
+
+<a href="https://datamod2021.github.io/">The 10th International Symposium, From Data to Models and Back (DataMod 2021)</a>
+
+<a href="https://www.agile-group.org/iwbose2021/">The 4th International Workshop on Blockchain Oriented Software Engineering (IWBOSE 2021)</a>
+
+
+##### 2022
+
+
+<a href="https://icsoft.scitevents.org/ProgramCommittee.aspx">The 17th International Conference on Software Technologies (ICSOFT 2022)</a>
+
+<a href="https://www.agile-group.org/iwbose2022/">The 5th International Workshop on Blockchain Oriented Software Engineering (IWBOSE 2022)</a>
 
 ##  Pages :
 
