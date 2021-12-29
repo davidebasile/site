@@ -3,23 +3,14 @@
 ![Davide Basile](https://www.cnr.it/peoplepublic/peoplepublic/index/profileimage/login/davide.basile)
 
 Davide Basile, Ph.D.<br/>
-
 Researcher (tenured position) @<br/>
-
 Formal Methods &amp; Tools (FMT)<br/>
-
 Istituto di Scienza e Tecnologie dell&#039;Informazione “A. Faedo” (ISTI)<br/>
-
 Consiglio Nazionale delle Ricerche (CNR)<br/>
-
 Area della Ricerca di Pisa, Loc. San Cataldo,<br/>
-
 Via Moruzzi 1, I-56124 Pisa, Italy<br/>
-
 <br/>
-
 Room : I-45<br/>
-
 Phone : +39 050 315 2796<br/>
 
 E-mail : <a href="mailto:&#100;&#97;&#118;&#105;&#100;&#101;&#46;&#98;&#97;&#115;&#105;&#108;&#101;&#64;&#105;&#115;&#116;&#105;&#46;&#99;&#110;&#114;&#46;&#105;&#116;" class="mail" title="&#100;&#97;&#118;&#105;&#100;&#101;&#46;&#98;&#97;&#115;&#105;&#108;&#101;&#64;&#105;&#115;&#116;&#105;&#46;&#99;&#110;&#114;&#46;&#105;&#116;">&#100;&#97;&#118;&#105;&#100;&#101;&#46;&#98;&#97;&#115;&#105;&#108;&#101;&#64;&#105;&#115;&#116;&#105;&#46;&#99;&#110;&#114;&#46;&#105;&#116;</a> <br/>
@@ -45,40 +36,30 @@ My research focuses on developing both novel formalisms for emerging computation
 <a href="https://ieeexplore.ieee.org/abstract/document/8560000">The 17th International Workshop on Assurance in Distributed Systems and Networks (ADSN 2018) </a>
 
 ##### 2019 
-<a href="http://adsn.net.info.hiroshima-cu.ac.jp/">The 18th International Workshop on Assurance in Distributed Systems and Networks (ADSN 2019) </a>
-
-<a href="https://icsoft.scitevents.org/?y=2019">The 14th International Conference on Software Technologies (ICSOFT 2019)</a>
-
+<a href="http://adsn.net.info.hiroshima-cu.ac.jp/">The 18th International Workshop on Assurance in Distributed Systems and Networks (ADSN 2019) </a><br>
+<a href="https://icsoft.scitevents.org/?y=2019">The 14th International Conference on Software Technologies (ICSOFT 2019)</a><br>
 <a href="http://kishi-lab.sakura.ne.jp/splc2019/program-committees/">The 23rd International Systems and Software Product Line Conference (SPLC 2019 - Artifact Track) </a>
 
 ##### 2020
-<a href="https://icsoft.scitevents.org/?y=2020">The 15th International Conference on Software Technologies (ICSOFT 2020)</a>
-
-<a href="https://fmics20.ait.ac.at/">The 25th International Conference on Formal Methods for Industrial Critical Systems (FMICS 2020)</a>
-
-<a href="https://datamod2020.github.io/">The 9th International Symposium, From Data to Models and Back (DataMod 2020)</a>
-
-<a href="https://splc2020.net/program-committees/">The 24th International Systems and Software Product Line Conference (SPLC 2020 - Artifact Track)</a>
-
+<a href="https://icsoft.scitevents.org/?y=2020">The 15th International Conference on Software Technologies (ICSOFT 2020)</a><br>
+<a href="https://fmics20.ait.ac.at/">The 25th International Conference on Formal Methods for Industrial Critical Systems (FMICS 2020)</a><br>
+<a href="https://datamod2020.github.io/">The 9th International Symposium, From Data to Models and Back (DataMod 2020)</a><br>
+<a href="https://splc2020.net/program-committees/">The 24th International Systems and Software Product Line Conference (SPLC 2020 - Artifact Track)</a><br>
 <a href="https://splc2020.net/program-committees/">The 24th International Systems and Software Product Line Conference (SPLC 2020 - Demonstrations, and Tools Track)</a>
 
 ##### 2021
 
-<a href="https://icsoft.scitevents.org/?y=2021">The 16th International Conference on Software Technologies (ICSOFT 2021)</a>
-
-<a href="https://splc2021.net/">The 25th International Systems and Software Product Line Conference (SPLC 2021 - Best Reviewer Award)</a>
-
-<a href="https://datamod2021.github.io/">The 10th International Symposium, From Data to Models and Back (DataMod 2021)</a>
-
+<a href="https://icsoft.scitevents.org/?y=2021">The 16th International Conference on Software Technologies (ICSOFT 2021)</a><br>
+<a href="https://splc2021.net/">The 25th International Systems and Software Product Line Conference (SPLC 2021 - Best Reviewer Award)</a><br>
+<a href="https://datamod2021.github.io/">The 10th International Symposium, From Data to Models and Back (DataMod 2021)</a><br>
 <a href="https://www.agile-group.org/iwbose2021/">The 4th International Workshop on Blockchain Oriented Software Engineering (IWBOSE 2021)</a>
 
 
 ##### 2022
 
-
-<a href="https://icsoft.scitevents.org/ProgramCommittee.aspx">The 17th International Conference on Software Technologies (ICSOFT 2022)</a>
-
-<a href="https://www.agile-group.org/iwbose2022/">The 5th International Workshop on Blockchain Oriented Software Engineering (IWBOSE 2022)</a>
+<a href="https://icsoft.scitevents.org/ProgramCommittee.aspx">The 17th International Conference on Software Technologies (ICSOFT 2022)</a><br>
+<a href="https://www.agile-group.org/iwbose2022/">The 5th International Workshop on Blockchain Oriented Software Engineering (IWBOSE 2022)</a><br>
+<a href="https://www.discotec.org/2022/coordination.html">The 24th International Conference on Coordination Models and Languages (COORDINATION 2022)</a>
 
 ##  Pages :
 
@@ -137,6 +118,11 @@ https://openportal.isti.cnr.it/results?qv=davide+basile</a>  (here you will find
 <p>
 <em>DBLP</em>: <a href="https://dblp.org/pid/135/0129.html" class="urlextern" target="_blank" rel="ugc nofollow noopener">https://dblp.org/pid/135/0129.html</a>
 </p>
+
+<p>
+<em>Publons</em>: <a href="https://publons.com/researcher/3816518/davide-basile/peer-review/">AAX-1112-2020</a> list of verified Peer Reviews in Journals
+</p>
+
 
 <p>
 <em>YouTube Channel</em>: <a href="https://www.youtube.com/channel/UCBrL5bekXG1_ELLB00K7o7A" class="urlextern" target="_blank" title="https://www.youtube.com/channel/UCBrL5bekXG1_ELLB00K7o7A" rel="ugc nofollow noopener">UCBrL5bekXG1_ELLB00K7o7A</a> this channel contains videos of my presentations at conferences and other material
