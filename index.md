@@ -47,6 +47,8 @@ ICT futura)</a><br>
 
 ## Program Committees:
 
+<a href="https://ifm22.si.usi.ch/pages/committees/">The 17th International Conference on integrated Formal Methods (Artifacts Evaluation Track)</a><br>
+<a href="https://www.discotec.org/2022/ice">15th Interaction and Concurrency Experience (ICE 2022)</a><br>
 <a href="https://icsoft.scitevents.org/ProgramCommittee.aspx">The 17th International Conference on Software Technologies (ICSOFT 2022)</a><br>
 <a href="https://www.agile-group.org/iwbose2022/">The 5th International Workshop on Blockchain Oriented Software Engineering (IWBOSE 2022)</a><br>
 <a href="https://www.discotec.org/2022/coordination.html">The 24th International Conference on Coordination Models and Languages (COORDINATION 2022)</a><br>
@@ -85,7 +87,7 @@ https://openportal.isti.cnr.it/results?qv=davide+basile</a>  (here you will find
 <em>LinkedIn</em>: <a href="https://www.linkedin.com/in/davide-basile-4179a74b" class="urlextern" target="_blank" title="https://www.linkedin.com/in/davide-basile-4179a74b" rel="ugc nofollow noopener">in/davide-basile-4179a74b </a>  info on my previous jobs and education are available here<br>
 <em>Research Gate</em>: <a href="http://www.researchgate.net/profile/Davide_Basile2" class="urlextern" target="_blank" title="http://www.researchgate.net/profile/Davide_Basile2" rel="ugc nofollow noopener">Davide_Basile2 </a><br>
 <em>Google Scholar</em>: <a href="http://scholar.google.it/citations?user=GFesXY4AAAAJ" class="urlextern" target="_blank" title="http://scholar.google.it/citations?user=GFesXY4AAAAJ" rel="ugc nofollow noopener">GFesXY4AAAAJ </a><br>
-<em>Semantic Scholar</em>: <a href="https://www.semanticscholar.org/author/D.-Basile/143672390" class="urlextern" target="_blank"  rel="ugc nofollow noopener">.-Basile/143672390 </a><br>
+<em>Semantic Scholar</em>: <a href="https://www.semanticscholar.org/author/D.-Basile/143672390" class="urlextern" target="_blank"  rel="ugc nofollow noopener">D.-Basile/143672390 </a><br>
 <em>DBLP</em>: <a href="https://dblp.org/pid/135/0129.html" class="urlextern" target="_blank" rel="ugc nofollow noopener">https://dblp.org/pid/135/0129.html</a><br>
 <em>Publons</em>: <a href="https://publons.com/researcher/3816518/davide-basile/peer-review/">AAX-1112-2020</a> list of verified Peer Reviews in Journals<br>
 <em>YouTube Channel</em>: <a href="https://www.youtube.com/channel/UCBrL5bekXG1_ELLB00K7o7A" class="urlextern" target="_blank" title="https://www.youtube.com/channel/UCBrL5bekXG1_ELLB00K7o7A" rel="ugc nofollow noopener">UCBrL5bekXG1_ELLB00K7o7A</a> this channel contains videos of my presentations at conferences and other material <br>
