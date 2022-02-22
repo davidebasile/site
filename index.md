@@ -29,7 +29,7 @@ My Ph.D. thesis <a href="https://etd.adm.unipi.it/t/etd-05232016-100710/">Specif
 
 During my post-doc years I have been involved in different international and national projects (<a href="http://www.astrail.eu/">ASTRail</a>, <a href="https://www.4securail.eu/">4SECURail</a>, <a href="https://www.progetto-sister.com">SISTER</a>) where I have applied state-of-the-art formal methods (e.g., Uppaal Statistical Model Checker) to the modelling and analysis of emerging technologies in the railway domain (e.g., satellite positioning, ERTMS/ETCS L3).
 
-As of 2021 I have authored about 40 peer-reviewed papers in conferences and journals in the field of formal methods, software engineering and dependable computing. 
+As of 2022 I have authored about 40 peer-reviewed papers in conferences and journals in the field of formal methods, software engineering and dependable computing. 
 My research focuses on developing both novel formalisms for emerging computational paradigms and supporting tools, exploring formal verification techniques and applying state-of-the-art formal methods to the design of real-world systems and emerging technologies in different application domains, e.g., railway domain. 
 
 ## Participation in Projects:
@@ -94,7 +94,7 @@ https://openportal.isti.cnr.it/results?qv=davide+basile</a>  (here you will find
 <em>GitHub Page</em>: <a href="https://github.com/davidebasile" class="urlextern" target="_blank" title="https://github.com/davidebasile" rel="ugc nofollow noopener">https://github.com/davidebasile</a>  this page contains the tools I am maintaining <br>
 <em>BitBucket Page:</em> <a href="https://bitbucket.org/davidebasile84/" class="urlextern" target="_blank" title="https://bitbucket.org/davidebasile/" rel="ugc nofollow noopener">https://bitbucket.org/davidebasile84/</a> this page contains the tools I am maintaining <br>
 <em>Twitter Page:</em> <a href="https://twitter.com/davidebasile/" class="urlextern" target="_blank" title="https://twitter.com/davidebasile/" rel="ugc nofollow noopener">
-https://twitter.com/davidebasile/</a></p>
+https://twitter.com/davidebasile/</a>
 
 
 
