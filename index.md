@@ -2,7 +2,7 @@
 
 ## Contact :
 
-![Davide Basile](https://www.cnr.it/peoplepublic/peoplepublic/index/profileimage/login/davide.basile)
+![Davide Basile](https://publications.cnr.it/api/v1/author/image/davide.basile)
 
 Davide Basile, Ph.D.<br/>
 Researcher (tenured position) @<br/>
