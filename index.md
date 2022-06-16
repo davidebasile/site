@@ -5,7 +5,7 @@
 ![Davide Basile](https://publications.cnr.it/api/v1/author/image/davide.basile)
 
 Davide Basile, Ph.D.<br/>
-Researcher (tenured position) @<br/>
+Permanent Researcher @<br/>
 Formal Methods &amp; Tools (FMT)<br/>
 Istituto di Scienza e Tecnologie dell&#039;Informazione “A. Faedo” (ISTI)<br/>
 Consiglio Nazionale delle Ricerche (CNR)<br/>
