@@ -49,6 +49,7 @@ ICT futura)</a><br>
 ## Program Committees:
 
 
+<a href="https://www.agile-group.org/iwbose2023/">The 6th International Workshop on Blockchain Oriented Software Engineering (IWBOSE 2023)</a><br>
 <a href="https://icsoft.scitevents.org/?y=2022">The 17th International Conference on Software Technologies (ICSOFT 2022)</a><br>
 <a href="https://ifm22.si.usi.ch/pages/committees/">The 17th International Conference on integrated Formal Methods (iFM 2022 Artifacts Evaluation Track)</a><br>
 <a href="https://www.discotec.org/2022/ice">15th Interaction and Concurrency Experience (ICE 2022)</a><br>
