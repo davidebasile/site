@@ -34,7 +34,7 @@ My research focuses on developing both novel formalisms for emerging computation
 
 ## Participation in Projects:
 
-
+<a href="">PNRR MOST Spoke 4: Rail Transportation, WP1: Increase of capacity of railway transport, Task 1.3: Resilient and sustainable railway infrastructure</a>
 <a href="https://t-ladies.di.unimi.it/">PRIN T-Ladies 2020TL3X8X 2022-2025 (Typeful Language Adaptation for Dynamic, Interacting and Evolving Systems)</a><br>
 <a href="http://itmatters.imtlucca.it/">PRIN ITMatters 2017FTXR7S 2020-2022</a><br>
 <a href="https://www.4securail.eu/">H2020 Shift2Rail 4SECURail 2020-2021 (FORmal Methods and CSIRT for the RAILway sector)</a><br>
@@ -49,6 +49,9 @@ ICT futura)</a><br>
 ## Program Committees:
 
 
+<a href="https://2023.splc.net/">The 27th International Systems and Software Product Line Conference - Journal First Track )SPLC 2023)</a><br>
+<a href="https://www.discotec.org/2023/ice">16th Interaction and Concurrency Experience (ICE 2023)</a><br>
+<a href="https://icsoft.scitevents.org/?y=2023">The 17th International Conference on Software Technologies (ICSOFT 2023)</a><br>
 <a href="https://www.agile-group.org/iwbose2023/">The 6th International Workshop on Blockchain Oriented Software Engineering (IWBOSE 2023)</a><br>
 <a href="https://icsoft.scitevents.org/?y=2022">The 17th International Conference on Software Technologies (ICSOFT 2022)</a><br>
 <a href="https://ifm22.si.usi.ch/pages/committees/">The 17th International Conference on integrated Formal Methods (iFM 2022 Artifacts Evaluation Track)</a><br>
