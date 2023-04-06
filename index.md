@@ -22,8 +22,8 @@ E-mail : <a href="mailto:&#100;&#97;&#118;&#105;&#100;&#101;&#46;&#98;&#97;&#115
 I am a permanent researcher at the <a href="https://www.fmt.isti.cnr.it/">Formal Methods && Tools Laboratory (FMT-lab)</a> of the <a href="https://www.isti.cnr.it/en/">Institute of Information Science and Technology (ISTI)</a> of the <a href="https://www.cnr.it/en">National Research Council (CNR)</a> in Pisa, Italy. 
 
 
-I did my Bachelor, Master and Ph.D. studies in Computer Scienceat the Department of Computer Science of the University of Pisa.  I spent 6 months as a visiting PhD student at the Department of Computer Science of the University of Leicester (UK).
-I have been a member of the FMT-lab since 2015, as a post-doc, research associate and finally as permanent researcher.
+I did my Bachelor, Master and Ph.D. studies in Computer Science at the Department of Computer Science of the University of Pisa.  
+I spent 6 months as a visiting PhD student at the Department of Computer Science of the University of Leicester (UK).
 In the years 2017-2019 I was an assistant professor at the University of Florence, Department of Statistics, Informations and Applications (DISIA) and a post-doc at the University of Florence, Department of Information Engineering (DINFO).
 
 My Ph.D. thesis <a href="https://etd.adm.unipi.it/t/etd-05232016-100710/">Specification and Verification of Contract-Based Applications</a> introduces a new automata-based formalism for behavioural contracts exploiting results from Supervisory Control Theory for Discrete Event Systems and Mixed Integer Linear Programming. These techniques are adapted to verify and synthesise ensembles of contracts with differerent well-behaving properties and coordination paradigms. The formalism is proved to be in relation with two Horn Fragments of dialects of Intuitionitistics Logics introduced to model contracts with debits. 
