@@ -21,9 +21,10 @@ E-mail : <a href="mailto:&#100;&#97;&#118;&#105;&#100;&#101;&#46;&#98;&#97;&#115
 
 I am a permanent researcher at the <a href="https://www.fmt.isti.cnr.it/">Formal Methods && Tools Laboratory (FMT-lab)</a> of the <a href="https://www.isti.cnr.it/en/">Institute of Information Science and Technology (ISTI)</a> of the <a href="https://www.cnr.it/en">National Research Council (CNR)</a> in Pisa, Italy. 
 
-Previously, in the years 2017-2019 I was an assistant professor at the University of Florence, Department of Statistics, Informations and Applications (DISIA) and a post-doc at the University of Florence, Department of Information Engineering (DINFO). I have been a member of the FMT-lab since 2015.
 
-I did my Ph.D. studies in Computer Science in 2012-2016, at the Department of Computer Science of the University of Pisa, Scienze di Base "Galileo Galilei", under the supervision of prof. Pierpaolo Degano and prof. Gian-Luigi Ferrari. During 2014, I spent 6 months as a visiting PhD student at the Department of Computer Science of the University of Leicester (UK). I was a Master and Bachelor student at the  University of Pisa, Corso di Laurea in Informatica.
+I did my Bachelor, Master and Ph.D. studies in Computer Scienceat the Department of Computer Science of the University of Pisa.  I spent 6 months as a visiting PhD student at the Department of Computer Science of the University of Leicester (UK).
+I have been a member of the FMT-lab since 2015, as a post-doc, research associate and finally as permanent researcher.
+In the years 2017-2019 I was an assistant professor at the University of Florence, Department of Statistics, Informations and Applications (DISIA) and a post-doc at the University of Florence, Department of Information Engineering (DINFO).
 
 My Ph.D. thesis <a href="https://etd.adm.unipi.it/t/etd-05232016-100710/">Specification and Verification of Contract-Based Applications</a> introduces a new automata-based formalism for behavioural contracts exploiting results from Supervisory Control Theory for Discrete Event Systems and Mixed Integer Linear Programming. These techniques are adapted to verify and synthesise ensembles of contracts with differerent well-behaving properties and coordination paradigms. The formalism is proved to be in relation with two Horn Fragments of dialects of Intuitionitistics Logics introduced to model contracts with debits. 
 
@@ -34,7 +35,7 @@ My research focuses on developing both novel formalisms for emerging computation
 
 ## Participation in Projects:
 
-<a href="">PNRR MOST Spoke 4: Rail Transportation, WP1: Increase of capacity of railway transport, Task 1.3: Resilient and sustainable railway infrastructure</a>
+<a href="">PNRR MOST Spoke 4: Rail Transportation, WP1: Increase of capacity of railway transport, Task 1.3: Resilient and sustainable railway infrastructure</a><br>
 <a href="https://t-ladies.di.unimi.it/">PRIN T-Ladies 2020TL3X8X 2022-2025 (Typeful Language Adaptation for Dynamic, Interacting and Evolving Systems)</a><br>
 <a href="http://itmatters.imtlucca.it/">PRIN ITMatters 2017FTXR7S 2020-2022</a><br>
 <a href="https://www.4securail.eu/">H2020 Shift2Rail 4SECURail 2020-2021 (FORmal Methods and CSIRT for the RAILway sector)</a><br>
