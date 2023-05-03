@@ -52,6 +52,7 @@ ICT futura)</a><br>
 
 <a href="https://2023.splc.net/">The 27th International Systems and Software Product Line Conference - Journal First Track (SPLC 2023)</a><br>
 <a href="https://www.discotec.org/2023/ice">16th Interaction and Concurrency Experience (ICE 2023)</a><br>
+<a href="https://ticsa.edgecloud.de/">First Workshop on Trends in Configurable Systems Analysis (TiCSA 2023)</a><br>
 <a href="https://icsoft.scitevents.org/?y=2023">The 17th International Conference on Software Technologies (ICSOFT 2023)</a><br>
 <a href="https://www.agile-group.org/iwbose2023/">The 6th International Workshop on Blockchain Oriented Software Engineering (IWBOSE 2023)</a><br>
 <a href="https://icsoft.scitevents.org/?y=2022">The 17th International Conference on Software Technologies (ICSOFT 2022)</a><br>
