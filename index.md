@@ -2,11 +2,6 @@
 
 <button name="button" onclick="http://www.google.com">Click me</button>
 
-[Click me](http://www.google.com){: .btn}
-
-
-{% include button.html url="http://www.google.com" %}
-
 <a href="https://github.com/davidebasile/davidebasile.github.io/blob/gh-pages/index.md#about-me">About me</a>
 
 ## Contact :
