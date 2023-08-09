@@ -75,3 +75,29 @@
 <em>Einführung „QGIS“ & Webdesign / introduction “QGIS“ & web design:</em> <a href="https://www.maastrichtuniversity.nl/p70076654">Monika Barget</a><br> 
 
 <h4>Beteiligte Studierende / participating students</h4>
+
+<div class="container" align="center">
+ <table border="0" style="width: 90%" style="padding: 30px">
+  <tr style="width:200px">
+    <td>Alina Buchal</td>
+    <td>Lara Beringer</td>
+    <td>Claudia Dorst Alonso</td>
+  </tr>
+  <tr style="width:200px">
+    <td>Julia Celine Jung</td>
+    <td>Lukas Theobald</td>
+    <td>Jana Unselt</td>
+  </tr>
+</table> 
+</div>
+
+<em>Forschungsdatenmanagement / research data management:</em> <a href="https://www.ieg-mainz.de/en/research/digital_historical_research/dh-lab">IEG Mainz DH Lab</a><br> 
+<em>DigiKAR Projektmanagement / DigiKAR project management:</em> <a href="https://www.ieg-mainz.de/en/institute/people/buyken">Constanze Buyken</a><br>
+
+<hr>
+<figure>
+<div style="text-align: center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Wenzel_Hollar_Mainzer_Dom_1632.jpg" width="650px" style="padding: 10px"/> 
+</div>
+<figcaption>Wenzel Hollar: St. Martinsdom in Mainz, pen drawing, 1632, photograph of original work by Stefan Volk, 2015, <a href="https://commons.wikimedia.org/wiki/File:Wenzel_Hollar_Mainzer_Dom_1632.jpg">Wikimedia Commons</a></figcaption>
+</figure>
