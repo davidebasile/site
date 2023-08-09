@@ -23,7 +23,7 @@ Phone : +39 050 315 2796<br/>
 E-mail : <a href="mailto:&#100;&#97;&#118;&#105;&#100;&#101;&#46;&#98;&#97;&#115;&#105;&#108;&#101;&#64;&#105;&#115;&#116;&#105;&#46;&#99;&#110;&#114;&#46;&#105;&#116;" class="mail" title="&#100;&#97;&#118;&#105;&#100;&#101;&#46;&#98;&#97;&#115;&#105;&#108;&#101;&#64;&#105;&#115;&#116;&#105;&#46;&#99;&#110;&#114;&#46;&#105;&#116;">&#100;&#97;&#118;&#105;&#100;&#101;&#46;&#98;&#97;&#115;&#105;&#108;&#101;&#64;&#105;&#115;&#116;&#105;&#46;&#99;&#110;&#114;&#46;&#105;&#116;</a> <br/>
 
 ## About me: 
-
+<p align="justify">
 I am a permanent researcher at the <a href="https://www.fmt.isti.cnr.it/">Formal Methods && Tools Laboratory (FMT-lab)</a> of the <a href="https://www.isti.cnr.it/en/">Institute of Information Science and Technology (ISTI)</a> of the <a href="https://www.cnr.it/en">National Research Council (CNR)</a> in Pisa, Italy. 
 
 
@@ -37,6 +37,7 @@ During my post-doc years I have been involved in different international and nat
 
 As of 2022 I have authored about 40 peer-reviewed papers in conferences and journals in the field of formal methods, software engineering and dependable computing. 
 My research focuses on developing both novel formalisms for emerging computational paradigms and supporting tools, exploring formal verification techniques and applying state-of-the-art formal methods to the design of real-world systems and emerging technologies in different application domains, e.g., railway domain. 
+</p>
 
 ## Participation in Projects:
 
