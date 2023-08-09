@@ -1,4 +1,4 @@
-# Davide Basile 
+
 <button name="button" onclick="window.location.href='https://davidebasile.github.io/index.html#about-me';">About me</button>
 <button name="button" onclick="window.location.href='https://davidebasile.github.io/index.html#participation-in-projects';">Participation in Projects</button>
 <button name="button" onclick="window.location.href='https://davidebasile.github.io/index.html#program-committees';">Program Committees</button>
