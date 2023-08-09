@@ -1,8 +1,11 @@
 # Davide Basile 
 
-<button name="button" onclick="http://www.google.com">Click me</button>
+<button name="button" onclick="https://github.com/davidebasile/davidebasile.github.io/blob/gh-pages/index.md#about-me">About me</button>
+<button name="button" onclick="https://github.com/davidebasile/davidebasile.github.io/blob/gh-pages/index.md#participation-in-projects">Participation in Projects</button>
+<button name="button" onclick="https://github.com/davidebasile/davidebasile.github.io/blob/gh-pages/index.md#program-committees">Program Committees</button>
+<button name="button" onclick="https://github.com/davidebasile/davidebasile.github.io/blob/gh-pages/index.md#conferences-organization">Conferences Organization</button>
+<button name="button" onclick="https://github.com/davidebasile/davidebasile.github.io/blob/gh-pages/index.md#pages">Pages</button>
 
-<a href="https://github.com/davidebasile/davidebasile.github.io/blob/gh-pages/index.md#about-me">About me</a>
 
 ## Contact :
 
