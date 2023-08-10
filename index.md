@@ -1,9 +1,9 @@
 
-<button name="button" onclick="window.location.href='https://davidebasile.github.io/index.html#about-me';">About me</button>
-<button name="button" onclick="window.location.href='https://davidebasile.github.io/index.html#participation-in-projects';">Participation in Projects</button>
-<button name="button" onclick="window.location.href='https://davidebasile.github.io/index.html#program-committees';">Program Committees</button>
-<button name="button" onclick="window.location.href='https://davidebasile.github.io/index.html#conferences-organization';">Conferences Organization</button>
-<button name="button" onclick="window.location.href='https://davidebasile.github.io/index.html#pages';">Pages</button>
+<button name="button1" class="btn" onclick="window.location.href='https://davidebasile.github.io/index.html#about-me';">About me</button>
+<button name="button2" class="btn" onclick="window.location.href='https://davidebasile.github.io/index.html#participation-in-projects';">Participation in Projects</button>
+<button name="button3" class="btn" onclick="window.location.href='https://davidebasile.github.io/index.html#program-committees';">Program Committees</button>
+<button name="button4" class="btn" onclick="window.location.href='https://davidebasile.github.io/index.html#conferences-organization';">Conferences Organization</button>
+<button name="button5" class="btn" onclick="window.location.href='https://davidebasile.github.io/index.html#pages';">Pages</button>
 
 ## Contact :
 
