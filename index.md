@@ -43,8 +43,11 @@ During my post-doc years I have been involved in different international and nat
 </p-->
 <p align="justify">
 My research focuses on developing novel formalisms for emerging computational paradigms and supporting tools, exploring formal verification techniques and applying state-of-the-art formal methods to the design of real-world systems and emerging technologies in different application domains, e.g., railway domain. 
+</p>
 
-As of 2023, I have authored about 50 peer-reviewed papers in conferences and journals in formal methods, software engineering and dependable computing. 
+<p align="justify">
+As of 2023, I have contributed approximately 50 peer-reviewed papers to conferences and journals spanning the domains of theoretical computer science, formal methods, software engineering and dependable computing. With only a few exceptions, I have served as the primary author for all of these contributions.
+
 </p>
 
 
