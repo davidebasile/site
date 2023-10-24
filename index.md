@@ -46,7 +46,7 @@ My research focuses on developing novel formalisms for emerging computational pa
 </p>
 
 <p align="justify">
-As of 2023, I have contributed approximately 50 peer-reviewed papers to conferences and journals spanning the domains of theoretical computer science, formal methods, software engineering and dependable computing. With only a few exceptions, I have served as the primary author for all of these contributions.
+As of 2023, I have contributed approximately 50 peer-reviewed papers to conferences and journals spanning the domains of theoretical computer science and formal methods in software engineering. With only a few exceptions, I have served as the primary author for all of these contributions.
 
 </p>
 
