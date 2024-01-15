@@ -50,11 +50,13 @@ As of 2023, I have contributed approximately 50 peer-reviewed papers to conferen
 
 </p>
 
+## Responsibilities in Projects:
 
+<a href="">MUR-PRIN PNRR 2022 project ADVENTURE (ADVancEd iNtegraTed evalUation of Railway systEms), 2023-2025 (WP Leader)</a> <br>
+<a href="http://www.centronazionalemost.it/eg/">PNRR MOST Spoke 4: Rail Transportation, WP1: Increase of capacity of railway transport, Task 1.3: Resilient and sustainable railway infrastructure (CNR Referent in Task 1.3)</a> <br>
 
 ## Participation in Projects:
 
-<a href="http://www.centronazionalemost.it/eg/">PNRR MOST Spoke 4: Rail Transportation, WP1: Increase of capacity of railway transport, Task 1.3: Resilient and sustainable railway infrastructure</a><br>
 <a href="https://t-ladies.di.unimi.it/">PRIN T-Ladies 2020TL3X8X 2022-2025 (Typeful Language Adaptation for Dynamic, Interacting and Evolving Systems)</a><br>
 <a href="http://itmatters.imtlucca.it/">PRIN ITMatters 2017FTXR7S 2020-2022</a><br>
 <a href="https://www.4securail.eu/">H2020 Shift2Rail 4SECURail 2020-2021 (FORmal Methods and CSIRT for the RAILway sector)</a><br>
@@ -68,7 +70,9 @@ ICT futura)</a><br>
 
 ## Program Committees:
 
-
+<a href="https://fmics.inria.fr/2024/">The 29th International Conference on Formal Methods for Industrial Critical Systems (FMICS 2024)</a><br>
+<a href="https://icsoft.scitevents.org/?y=2024">The 18th International Conference on Software Technologies (ICSOFT 2024)</a><br>
+<a href="https://enase.scitevents.org/ProgramCommittee.aspx">The 19th International Conference on Evaluation of Novel Approaches to Software Engineering (ENASE 2024)</a><br>
 <a href="https://ifm23.liacs.nl/committees.html">The 18th International Conference on integrated Formal Methods  (iFM 2023 - Artifact Evaluation Track)</a><br>
 <a href="https://2023.splc.net/">The 27th International Systems and Software Product Line Conference (SPLC 2023 - Journal First Track)</a><br>
 <a href="https://www.discotec.org/2023/ice">16th Interaction and Concurrency Experience (ICE 2023)</a><br>
