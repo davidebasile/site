@@ -122,7 +122,7 @@ https://openportal.isti.cnr.it/results?qv=davide+basile</a>  (here you will find
 
 #### Research Engines:
 <em>Scopus Author ID</em>: <a href="http://www.scopus.com/authid/detail.url?authorId=55960640200" class="urlextern" target="_blank" title="http://www.scopus.com/authid/detail.url?authorId=55960640200" rel="ugc nofollow noopener">55960640200 </a><br>
-<em>WoS Researcher ID</em>: <a href="http://www.researcherid.com/rid/AAX-1112-2020" class="urlextern" target="_blank" title="http://www.researcherid.com/rid/AAX-1112-2020" rel="ugc nofollow noopener">AAX-1112-2020 </a><br>
+<em>WoS Researcher ID</em>: <a href="https://www.webofscience.com/wos/author/record/2064015" class="urlextern" target="_blank" title="https://www.webofscience.com/wos/author/record/2064015" rel="ugc nofollow noopener">AAX-1112-2020 </a><br>
 <em>Research Gate</em>: <a href="http://www.researchgate.net/profile/Davide_Basile2" class="urlextern" target="_blank" title="http://www.researchgate.net/profile/Davide_Basile2" rel="ugc nofollow noopener">Davide_Basile2 </a><br>
 <em>Google Scholar</em>: <a href="http://scholar.google.it/citations?user=GFesXY4AAAAJ" class="urlextern" target="_blank" title="http://scholar.google.it/citations?user=GFesXY4AAAAJ" rel="ugc nofollow noopener">GFesXY4AAAAJ </a><br>
 <em>Semantic Scholar</em>: <a href="https://www.semanticscholar.org/author/D.-Basile/143672390" class="urlextern" target="_blank"  rel="ugc nofollow noopener">D.-Basile/143672390 </a><br>
