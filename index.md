@@ -50,26 +50,10 @@ As of 2023, I have contributed approximately 50 peer-reviewed papers to conferen
 
 </p>
 
-## Responsibilities in Projects:
-
-<a href="">MUR-PRIN PNRR 2022 project ADVENTURE (ADVancEd iNtegraTed evalUation of Railway systEms), 2023-2025 (WP Leader)</a> <br>
-<a href="http://www.centronazionalemost.it/eg/">PNRR MOST Spoke 4: Rail Transportation, WP1: Increase of capacity of railway transport, Task 1.3: Resilient and sustainable railway infrastructure (CNR Referent in Task 1.3)</a> <br>
-
-## Participation in Projects:
-
-<a href="https://t-ladies.di.unimi.it/">PRIN T-Ladies 2020TL3X8X 2022-2025 (Typeful Language Adaptation for Dynamic, Interacting and Evolving Systems)</a><br>
-<a href="http://itmatters.imtlucca.it/">PRIN ITMatters 2017FTXR7S 2020-2022</a><br>
-<a href="https://www.4securail.eu/">H2020 Shift2Rail 4SECURail 2020-2021 (FORmal Methods and CSIRT for the RAILway sector)</a><br>
-<a href="https://www.astral-project.eu/">H2020 Shift2Rail ASTRail 2017-2019 (SAtellite-based Signalling and Automation SysTems on Railways along with
-Formal Method and Moving Block validation)</a><br>
-<a href="https://www.progetto-sister.com/">POR FESR SISTER 2017-2019 (Signalling & Sensing Technologies in Railway application) </a><br>
-<a href="https://web.archive.org/web/20210117150107/http://sysma.imtlucca.it/cina/doku.php">PRIN CINA 2010LHT4KM  2015-2016 (Composizionalità, Interazione, Negoziazione, Autonomicità per la società
-ICT futura)</a><br>
-<a href="https://securitylab.disi.unitn.it/doku.php?id=tenace#tenace_project">PRIN TENACE 20103P34XC, 2015-2016 (Protezione delle Infrastrutture Critiche Nazionali da Minacce Cibernetiche)</a><br>
-<a href="http://attiministeriali.miur.it/media/204097/graduatorie_finali_area1.pdf">PRIN Security Horizon 2010XSEMLC 2013-2014</a>
 
 ## Program Committees:
 
+<a href="https://futuretransport.eai-conferences.org/2024/">8th EAI International Conference on Intelligent Transport Systems (EAI INTSYS 2024)</a><br>
 <a href="https://fmics.inria.fr/2024/">The 29th International Conference on Formal Methods for Industrial Critical Systems (FMICS 2024)</a><br>
 <a href="https://icsoft.scitevents.org/?y=2024">The 18th International Conference on Software Technologies (ICSOFT 2024)</a><br>
 <a href="https://enase.scitevents.org/ProgramCommittee.aspx">The 19th International Conference on Evaluation of Novel Approaches to Software Engineering (ENASE 2024)</a><br>
@@ -104,6 +88,26 @@ ICT futura)</a><br>
 
 <a href="https://vamos2022.isti.cnr.it/vamosorganisation">The 16th International Working Conference on Variability Modelling of Software-Intensive System (VaMoS 2022 - Publicity Chair, Web Chair) </a><br>
 <a href="https://www.discotec.org/2020/">The 15th International Federated Conference on Distributed Computing Techniques (DisCoTec 2020 - Publicity Chair) </a><br>
+
+
+## Responsibilities in Projects:
+
+<a href="">MUR-PRIN PNRR 2022 project ADVENTURE (ADVancEd iNtegraTed evalUation of Railway systEms), 2023-2025 (WP Leader)</a> <br>
+<a href="http://www.centronazionalemost.it/eg/">PNRR MOST Spoke 4: Rail Transportation, WP1: Increase of capacity of railway transport, Task 1.3: Resilient and sustainable railway infrastructure (CNR Referent in Task 1.3)</a> <br>
+
+## Participation in Projects:
+
+<a href="https://t-ladies.di.unimi.it/">PRIN T-Ladies 2020TL3X8X 2022-2025 (Typeful Language Adaptation for Dynamic, Interacting and Evolving Systems)</a><br>
+<a href="http://itmatters.imtlucca.it/">PRIN ITMatters 2017FTXR7S 2020-2022</a><br>
+<a href="https://www.4securail.eu/">H2020 Shift2Rail 4SECURail 2020-2021 (FORmal Methods and CSIRT for the RAILway sector)</a><br>
+<a href="https://www.astral-project.eu/">H2020 Shift2Rail ASTRail 2017-2019 (SAtellite-based Signalling and Automation SysTems on Railways along with
+Formal Method and Moving Block validation)</a><br>
+<a href="https://www.progetto-sister.com/">POR FESR SISTER 2017-2019 (Signalling & Sensing Technologies in Railway application) </a><br>
+<a href="https://web.archive.org/web/20210117150107/http://sysma.imtlucca.it/cina/doku.php">PRIN CINA 2010LHT4KM  2015-2016 (Composizionalità, Interazione, Negoziazione, Autonomicità per la società
+ICT futura)</a><br>
+<a href="https://securitylab.disi.unitn.it/doku.php?id=tenace#tenace_project">PRIN TENACE 20103P34XC, 2015-2016 (Protezione delle Infrastrutture Critiche Nazionali da Minacce Cibernetiche)</a><br>
+<a href="http://attiministeriali.miur.it/media/204097/graduatorie_finali_area1.pdf">PRIN Security Horizon 2010XSEMLC 2013-2014</a>
+
 
 ## Pages:
 
