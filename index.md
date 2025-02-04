@@ -85,7 +85,7 @@ As of 2023, I have contributed approximately 50 peer-reviewed papers to conferen
 <a href="http://kishi-lab.sakura.ne.jp/splc2019/program-committees/">The 23rd International Systems and Software Product Line Conference (SPLC 2019 - Artifact Track) </a><br>
 <a href="https://ieeexplore.ieee.org/abstract/document/8560000">The 17th International Workshop on Assurance in Distributed Systems and Networks (ADSN 2018) </a>
 
-
+<!-- 
 ## Conferences Organization:
 
 <a href="https://vamos2022.isti.cnr.it/vamosorganisation">The 16th International Working Conference on Variability Modelling of Software-Intensive System (VaMoS 2022 - Publicity Chair, Web Chair) </a><br>
@@ -110,6 +110,7 @@ ICT futura)</a><br>
 <a href="https://securitylab.disi.unitn.it/doku.php?id=tenace#tenace_project">PRIN TENACE 20103P34XC, 2015-2016 (Protezione delle Infrastrutture Critiche Nazionali da Minacce Cibernetiche)</a><br>
 <a href="http://attiministeriali.miur.it/media/204097/graduatorie_finali_area1.pdf">PRIN Security Horizon 2010XSEMLC 2013-2014</a>
 
+-->
 
 ## Pages:
 
